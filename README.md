@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Maryelin</h1>
-<h3 align="center">I'm software developer 💻 and aspiring polyglot 🗺</h3>
-<h5 align="center">Creative and analytical, proactive and optimistic. Willing to learn new things and improve everyday to do my best towards my objectives</h5>
+<h1 align="left">Hi, I'm Maryelin</h1>
+<h3 align="left">I'm software developer 💻 and aspiring polyglot 🗺</h3>
+<h5 align="left">Creative and analytical, proactive and optimistic. Willing to learn new things and improve everyday to do my best towards my objectives</h5>
 
