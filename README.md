@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hi, I'm Maryelin</h1>
-<h3 align="left">I'm software developer 💻 and aspiring polyglot 🌏</h3>
+<h3 align="left">I'm a software developer 💻 and aspiring polyglot 🌏</h3>
 <h5 align="left">Creative and analytical, proactive and optimistic. Willing to learn new things and improve everyday to do my best towards my objectives</h5>
+<h5 align="left">Skills: TypeScript, C#, Next.js, React, Angular, .NET Core, Docker, RabbitMQ
 
